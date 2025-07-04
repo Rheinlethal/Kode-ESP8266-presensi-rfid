@@ -10,13 +10,13 @@
 #include <WiFiUdp.h>
 
 // WiFi credentials
-#define WIFI_SSID "GKBB1"
-#define WIFI_PASSWORD "dutasayangrara"
+#define WIFI_SSID " "//isi SSID WIFI
+#define WIFI_PASSWORD " "//isi password Wifi
 
 // Firebase configuration - menggunakan REST API langsung
-#define FIREBASE_PROJECT_ID "rfid-attendance-system-acb13"
-#define FIREBASE_DATABASE_URL "https://rfid-attendance-system-acb13-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_API_KEY "AIzaSyCHsie4V1BsTx07tI2uYpFvAfZn2L5wFD4"
+#define FIREBASE_PROJECT_ID " "//isi project id
+#define FIREBASE_DATABASE_URL " "//isi URL Firebase
+#define FIREBASE_API_KEY " "//isi API key firebase
 
 // Pin definitions untuk RFID RC522
 #define SS_PIN 4    // Pin SDA/SS (D2)
