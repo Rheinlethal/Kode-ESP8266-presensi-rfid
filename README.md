@@ -1,3 +1,14 @@
+JANGAN LUPA DIGANTI DI BAGIAN CODE ESP
+
+// WiFi credentials
+#define WIFI_SSID " "//isi SSID WIFI
+#define WIFI_PASSWORD " "//isi password Wifi
+
+// Firebase configuration - menggunakan REST API langsung
+#define FIREBASE_PROJECT_ID " "//isi project id
+#define FIREBASE_DATABASE_URL " "//isi URL Firebase
+#define FIREBASE_API_KEY " "//isi API key firebase
+
 Library yang Digunakan
 
 ESP8266WiFi.h
